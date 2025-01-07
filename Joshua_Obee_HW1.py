@@ -2,9 +2,9 @@
 Author: Joshua R. Obee
 Purpose: This program follows the rules of "Conway's Game of Life".
 "1. Any alive cell that is touching less than two alive neighbours dies.
-2. Any alive cell touching four or more alive neighbours dies.
-3. Any alive cell touching two or three alive neighbours does nothing.
-4. Any dead cell touching exactly three alive neighbours becomes alive."
+2. Any alive cell touching four or more alive neighbors dies.
+3. Any alive cell touching two or three alive neighbors does nothing.
+4. Any dead cell touching exactly three alive neighbors becomes alive."
 (Black space is alive; White space is dead)
 """
 
